@@ -1,0 +1,6 @@
+echo "# Las-10-primeras-pruebas" >> README.md 
+git init 
+git add README.md 
+git commit -m "first commit" 
+git remote add origen origen https://github.com/MercedesGarciaMarin/Las-10-primeras -pruebas.git
+ git push -u master de origen
